@@ -1,1 +1,1 @@
-export { default } from '../src/Buneya';
+export { default } from './landing';
